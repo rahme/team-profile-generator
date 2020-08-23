@@ -13,6 +13,7 @@ To use this application, Node.js needs to be installed. When the files are downl
 
 ## Usage
 The command line interface must be in the same directory as the "app.js" file and then the user can use the command "node app.js" to run the app.
+![Team Profile Generater](https://raw.githubusercontent.com/rahme/team-profile-generator/master/Team%20Profile%20Generator/screenshot/team-maker.PNG)
 
 ## License
 MIT License
